@@ -1,0 +1,80 @@
+<NewDataSet>
+  <Stock>
+    <StockID>1</StockID>
+    <Description>Coffee Beans</Description>
+    <Price>35.50</Price>
+    <Stock_level>603</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>10</StockID>
+    <Description>Tea Filter</Description>
+    <Price>8.25</Price>
+    <Stock_level>124</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>11</StockID>
+    <Description>Coffee Tamper</Description>
+    <Price>12.75</Price>
+    <Stock_level>21</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>12</StockID>
+    <Description>Set of 2 mugs</Description>
+    <Price>19.33</Price>
+    <Stock_level>12</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>13</StockID>
+    <Description>Colombia espresso beans</Description>
+    <Price>18.75</Price>
+    <Stock_level>181</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>2</StockID>
+    <Description>Ground Coffee</Description>
+    <Price>30.25</Price>
+    <Stock_level>1040</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>3</StockID>
+    <Description>Coffee filters</Description>
+    <Price>12.75</Price>
+    <Stock_level>900</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>4</StockID>
+    <Description>Coffee Maker</Description>
+    <Price>32.50</Price>
+    <Stock_level>74</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>5</StockID>
+    <Description>Cleaning Tabs</Description>
+    <Price>9.99</Price>
+    <Stock_level>130</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>6</StockID>
+    <Description>Coffee Shot Glasses</Description>
+    <Price>28.50</Price>
+    <Stock_level>25</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>7</StockID>
+    <Description>Tea Pot</Description>
+    <Price>18.75</Price>
+    <Stock_level>110</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>8</StockID>
+    <Description>Coffee Press</Description>
+    <Price>42.85</Price>
+    <Stock_level>14</Stock_level>
+  </Stock>
+  <Stock>
+    <StockID>9</StockID>
+    <Description>Tea Leafs</Description>
+    <Price>33.25</Price>
+    <Stock_level>76</Stock_level>
+  </Stock>
+</NewDataSet>
